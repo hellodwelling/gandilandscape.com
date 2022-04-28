@@ -74,21 +74,14 @@
     </url>
 
     <url>
-        <loc>https://gandilandscape.com/service-Patio-Covers</loc>
-        <lastmod>2022-04-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://gandilandscape.com/service-Outdoor-Lighting</loc>
-        <lastmod>2022-04-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://gandilandscape.com/service-Fence-Installation-and-Repair</loc>
+        <lastmod>2022-04-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://gandilandscape.com/service-Patio-Covers</loc>
         <lastmod>2022-04-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -102,21 +95,14 @@
     </url>
 
     <url>
-        <loc>https://gandilandscape.com/service-Painting</loc>
-        <lastmod>2022-04-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://gandilandscape.com/service-Water-Features</loc>
-        <lastmod>2022-04-28</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://gandilandscape.com/service-Drainage-Systems</loc>
+        <lastmod>2022-04-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://gandilandscape.com/service-Painting</loc>
         <lastmod>2022-04-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -158,6 +144,13 @@
     </url>
 
     <url>
+        <loc>https://gandilandscape.com/service-Outdoor-Lighting</loc>
+        <lastmod>2022-04-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
         <loc>https://gandilandscape.com/service-Interior-Remodeling</loc>
         <lastmod>2022-04-28</lastmod>
         <changefreq>weekly</changefreq>
@@ -166,6 +159,13 @@
 
     <url>
         <loc>https://gandilandscape.com/service-Sod-Installation</loc>
+        <lastmod>2022-04-28</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://gandilandscape.com/service-Water-Features</loc>
         <lastmod>2022-04-28</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
